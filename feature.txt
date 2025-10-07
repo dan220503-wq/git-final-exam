@@ -1,0 +1,7 @@
+MÔ TẢ TÍNH NĂNG MỚI: ĐĂNG NHẬP BẰNG GOOGLE
+
+- Người dùng có thể đăng nhập vào hệ thống mà không cần đăng ký tài khoản mới.
+- Hệ thống sẽ sử dụng tài khoản Google của người dùng để xác thực.
+- Tính năng này giúp giảm thời gian đăng ký và tăng trải nghiệm người dùng.
+- Cần tích hợp Google API vào dự án.
+- Đảm bảo an toàn và bảo mật thông tin người dùng.
