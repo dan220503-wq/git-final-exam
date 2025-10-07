@@ -1,5 +1,6 @@
 GIỚI THIỆU CÁ NHÂN
 Hello, this is NGUYEN THANH DAN
+Xin chào, tôi là NGUYỄN THANH DÂN
 Tôi là sinh viên ngành Công nghệ thông tin.
 Tôi đang học cách sử dụng Git để phục vụ cho các dự án trong tương lai.
 Mục tiêu của tôi là trở thành một lập trình viên chuyên nghiệp.
@@ -21,3 +22,5 @@ KẾ HOẠCH HỌC TẬP
 - Áp dụng Git vào tất cả các đồ án môn học sắp tới.
 - Tìm hiểu về các quy trình làm việc nhóm như Git Flow.
 - Đóng góp vào một dự án mã nguồn mở nhỏ trên GitHub.
+
+Conflict resolved on <10/07/2025>
