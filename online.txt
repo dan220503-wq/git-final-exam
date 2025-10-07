@@ -1,3 +1,5 @@
 Đây là file được tạo trực tiếp trên GitHub.
 Dòng thứ hai.
 Dòng thứ ba.
+Dòng thứ tư được thêm ở local.
+Dòng thứ năm được thêm ở local.
