@@ -1,3 +1,5 @@
 - Git giúp quản lý phiên bản code rất hiệu quả.
 - Làm việc với branch giúp phát triển tính năng song song mà không bị xung đột.
 - Git là một kỹ năng bắt buộc đối với mọi lập trình viên.
+- Lệnh git log rất hữu ích để xem lại lịch sử thay đổi.
+- Việc giải quyết conflict ban đầu hơi khó nhưng rất quan trọng.
