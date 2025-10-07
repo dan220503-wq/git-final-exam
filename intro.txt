@@ -1,5 +1,5 @@
 GIỚI THIỆU CÁ NHÂN
-Xin chào, tôi là Nguyễn Thanh Dân, MSSV 220503.
+Hello, this is NGUYEN THANH DAN
 Tôi là sinh viên ngành Công nghệ thông tin.
 Tôi đang học cách sử dụng Git để phục vụ cho các dự án trong tương lai.
 Mục tiêu của tôi là trở thành một lập trình viên chuyên nghiệp.
