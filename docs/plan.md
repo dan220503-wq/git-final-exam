@@ -28,3 +28,8 @@
 
 \- Hoàn thành bài tập đúng hạn.
 
+CÁC BƯỚC TIẾP THEO (Lần 1)
+- Tìm hiểu về GitHub Actions.
+- Thực hành tạo Pull Request template.
+- Xem video hướng dẫn về git bisect.
+
