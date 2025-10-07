@@ -14,3 +14,10 @@ KỸ NĂNG
 - Lập trình C++
 - Giao tiếp
 - Làm việc nhóm
+
+KẾ HOẠCH HỌC TẬP
+- Hoàn thành tốt bài thi cuối kỳ môn Git.
+- Học thêm về các tính năng nâng cao của Git như rebase, cherry-pick.
+- Áp dụng Git vào tất cả các đồ án môn học sắp tới.
+- Tìm hiểu về các quy trình làm việc nhóm như Git Flow.
+- Đóng góp vào một dự án mã nguồn mở nhỏ trên GitHub.
