@@ -28,8 +28,14 @@
 
 \- Hoàn thành bài tập đúng hạn.
 
+<<<<<<< Updated upstream
 CÁC BƯỚC TIẾP THEO (Lần 1)
 - Tìm hiểu về GitHub Actions.
 - Thực hành tạo Pull Request template.
 - Xem video hướng dẫn về git bisect.
 
+=======
+CÁC BƯỚC TIẾP THEO (Lần 2)
+- Tìm hiểu về git hooks.
+- Thử nghiệm với git submodule.
+>>>>>>> Stashed changes
